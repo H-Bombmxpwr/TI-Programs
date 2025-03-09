@@ -1,10 +1,3 @@
-Program Physics will display many helpful physics formulas for AP physics 1. It works on the CE only.
-
-Made by John Schmidt
-
-
-
-
 HPHYSICS is a comprehensive physics program for AP physics 1 and C and beyond. It also includes a complete breakdown of units as well as
 Newton's Laws, Kepler's Laws, and the laws of thermodynamics. Works on all calculators.
 
