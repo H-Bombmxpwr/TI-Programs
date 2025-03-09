@@ -5,7 +5,7 @@ Made by John Schmidt
 
 
 
-HPHYSICS is a comprehensive physics program for AP physics 1 and C. It also includes a complete breakdown of units as well as
+HPHYSICS is a comprehensive physics program for AP physics 1 and C and beyond. It also includes a complete breakdown of units as well as
 Newton's Laws, Kepler's Laws, and the laws of thermodynamics. Works on all calculators.
 
 Because HPHYSICS is so large, I split it into 3 programs, HPHYS1, HPHYS2, and HPHYS3. These are identical to HPHYSICS, just split

@@ -1,7 +1,13 @@
-The normal TRIANGLE is John Schmidt's orginal program. It will prompt for any 3 or more parts of
-a triangle and it will solve for the the missing parts(a part being an angle or side). If the part is unknown, input X into the input
-field. Capital letters represent angles and lowercase letters represent sides.
+## TRIANGLE NEW Program
 
-Program TRIANGLE New is the exact same as the original, except Hunter added an additonal function.
-You can now input any 3 2D points in the same plane and it will give the lengths of the 3 sides,
-the 3 angles of the triangle, and the area of the triangle. 
+**TRIANGLE NEW** is a powerful tool for solving triangles in multiple ways. It allows users to:
+
+- Input any **three or more known parts** of a triangle (sides or angles), and the program will **calculate the missing values**.
+- Enter **three 2D points** in the same plane, and it will:
+  - Compute the **lengths of all three sides**.
+  - Determine the **three angles** of the triangle.
+  - Calculate the **area** of the triangle.
+
+For unknown values, simply input `X` into the prompt, and the program will solve for the missing parts automatically.
+
+Made by Hunter
