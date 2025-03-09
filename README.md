@@ -9,7 +9,6 @@ This repository contains a variety of programs designed for **physics and mathem
 This folder contains programs that were made by:
 
 - **Hunter Baisden** (Class of 2020)
-- **John Schmidt** (Class of 2016)
 - **Liam Cacioppo** (Class of 2020)
 - And a few that were pulled from other outside sources.
 
