@@ -1,0 +1,1 @@
+Plots Sierpinski's Triangle if given enough time

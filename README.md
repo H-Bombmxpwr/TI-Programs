@@ -10,7 +10,8 @@ This folder contains programs that were made by:
 
 - **Hunter Baisden** (Class of 2020)
 - **Liam Cacioppo** (Class of 2020)
-- And a few that were pulled from other outside sources.
+- **John Schmidt** (Class of 2016)
+- And a few that were pulled from other outside sources, or just completely unknown.
 
 All credit for a given program is listed in the description of that program.
 
